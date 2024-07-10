@@ -35,7 +35,7 @@ Perform the predefined gestures to trigger actions.
 
 
 
-## Future Development: Gesture-Controlled OS for the Blind
+## Future Development: Gesture-Controlled OS for the Visually Impaired
 
 This project has the potential to evolve into a comprehensive gesture-controlled operating system tailored for visually impaired individuals. By harnessing the power of computer vision and machine learning, the system can interpret hand gestures to perform various tasks, offering a hands-free, intuitive, and accessible way to interact with technology.
 
